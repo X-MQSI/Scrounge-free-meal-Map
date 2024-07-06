@@ -50,12 +50,12 @@ chart: {
 },
 
 title: {
-    text: '蹭饭地图',
+    text: '海口实验中学2026届七班蹭饭地图',
     style: {"color": "#333333", "fontSize": "24px"}
 },
 
 subtitle: {
-    text: '中国',
+    text: '中华人民共和国',
     floating: true,
     y: 50,
     style: {
@@ -65,7 +65,7 @@ subtitle: {
 
 tooltip: {
     useHTML: true,
-    backgroundColor: '#357fee',
+    backgroundColor: '#3399FF',
     borderRadius: 5,
     padding: 12,
     style: {
