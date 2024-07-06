@@ -1,5 +1,3 @@
-# map
+# 海口实验中学2026届七班蹭饭地图
 
-临汾一中 1704 班蹭饭地图 demo
-
-可以通过[这里](https://lvris.com/map)访问 demo
+> 基于[临汾一中 1704 班蹭饭地图 demo](https://github.com/lvris/map)修改
