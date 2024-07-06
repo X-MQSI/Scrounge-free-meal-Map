@@ -50,7 +50,7 @@ chart: {
 },
 
 title: {
-    text: '海口实验中学2026届七班蹭饭地图',
+    text: '海口实验中学2024届七班蹭饭地图',
     style: {"color": "#333333", "fontSize": "24px"}
 },
 
@@ -71,7 +71,7 @@ tooltip: {
     style: {
         'color': '#dddddd',
         'cursor': 'default',
-        'fontSize': '14px',
+        'fontSize': '15px',
         'pointerEvents': 'none',
         'whiteSpace': 'nowrap'
     },
