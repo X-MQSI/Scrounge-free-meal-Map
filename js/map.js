@@ -80,7 +80,7 @@ tooltip: {
 
 colorAxis: {
     min: 0,
-    max: 50,
+    max: 15,
     type: 'linear',
     minColor: '#ffffff',
     maxColor: '#006cee',
