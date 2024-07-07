@@ -43,7 +43,7 @@ chart: {
         drillup: function () {
             data = Highcharts.maps['cn/china'];
             this.setTitle(null, {
-                text: '中国'
+                text: '中华人民共和国'
             });
         }
     }
