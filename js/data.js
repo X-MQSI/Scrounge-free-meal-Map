@@ -114,12 +114,6 @@ let students =
             "province": "贵州"
         },
         {
-            "name": "李传乾",
-            "school": "吉林农业科技学院",
-            "city": "吉林",
-            "province": "吉林"
-        },
-        {
             "name": "龙仕宝",
             "school": "湖南文理学院",
             "city": "常德",
