@@ -311,4 +311,10 @@ let students =
             "city": "海口",
             "province": "海南"
         },
+        {
+            "name": "陈嘉欣",
+            "school": "珠海科技学院",
+            "city": "珠海",
+            "province": "广东"
+        },
     ]
