@@ -97,7 +97,7 @@ colorAxis: {
         [0.9, 'rgba(0, 238, 150, 1)'],
         [1, 'rgba(0, 238, 100, 1)']
     ]
-}
+},
 
 series: [{
     data: data,
