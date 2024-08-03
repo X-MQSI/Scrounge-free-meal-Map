@@ -192,7 +192,7 @@ let students =
             "province": "江西"
         },
         {
-            "name": "吴靖婷",
+            "name": "吴婧婷",
             "school": "江西科技师范大学",
             "city": "南昌",
             "province": "江西"
@@ -310,5 +310,11 @@ let students =
             "school": "珠海科技学院",
             "city": "珠海",
             "province": "广东"
+        },
+        {
+            "name": "符腾中",
+            "school": "太原师范学院",
+            "city": "太原",
+            "province": "山西"
         },
     ]
